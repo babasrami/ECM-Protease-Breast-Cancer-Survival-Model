@@ -1,16 +1,4 @@
-"""
-METABRIC External Validation Script
-===================================
 
-External validation of a locked TCGA-BRCA trained Random Survival Forest model
-on the independent METABRIC breast cancer cohort.
-
-No data leakage:
-- The RSF model is loaded as a locked model.
-- No retraining or hyperparameter tuning is performed on METABRIC.
-- METABRIC normalization is fitted only on METABRIC samples.
-- Risk-group cutoffs are derived from the original training cohort.
-"""
 
 from __future__ import annotations
 
