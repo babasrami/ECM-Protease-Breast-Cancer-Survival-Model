@@ -335,4 +335,5 @@ If you use this repository, please cite the related manuscript:
 Babas, R.; Vynios, D.H.; Kompothrekas, A.; Boutsinas, B.; Karamanos, N.K.
 Integrative Survival Prediction in Breast Cancer Using Extracellular Matrix Protease Transcript Signatures and Clinical Variables: A Machine Learning Approach.
 Cancers, 2026.
+https://doi.org/10.3390/cancers18101497
 ```
